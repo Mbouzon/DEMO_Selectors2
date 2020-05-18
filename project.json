@@ -1,6 +1,6 @@
 {
   "name": "DEMO_Selectors2",
-  "description": "Demo Selectors 2.0 utilizando Fuzzy e Regex Matching",
+  "description": "Demonstração do UiPath WebDriver com Selector 2.0 utilizando Fuzzy e Regex Matching",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[20.4.0]",
