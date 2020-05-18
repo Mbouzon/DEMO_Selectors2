@@ -1,6 +1,6 @@
 {
-  "name": "Selectors2",
-  "description": "Demo Selectors 2.0",
+  "name": "DEMO_Selectors2",
+  "description": "Demo Selectors 2.0 utilizando Fuzzy e Regex Matching",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[20.4.0]",
